@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.enhancedCenter {
+  margin: auto;
+  width: 60%;
+  border: 3px solid transparent;
+  padding: 10px;
+}
+
+.enhancedSearch {
+  margin: auto;
+  border: 3px solid burlywood;
+  padding: 10px;
+}
+
+.enhancedColor {
+  background-color: aquamarine;
+}
+
+.enhancedHeadTable {
+  background-color: lightyellow;
+}

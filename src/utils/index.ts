@@ -1,0 +1,6 @@
+export { descendingComparator } from "./comparators/descendingComparator"
+export { getComparator } from "./comparators/getComparator"
+export { stableSort } from "./stableSort"
+export { headCells } from "./headCells"
+export type { Order } from "./utils"
+export { floatTwoNb } from "./utils"
